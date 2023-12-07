@@ -1,0 +1,80 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    align-items: center;
+    color: brown;
+    margin-left: 400px;
+}
+h3{
+    align-items: center;
+    color: blue;
+    margin-left: 500px;
+}
+.Boaz{
+    display: flex;
+    height: 60px;
+    align-items: center;
+    background-color: rgb(86, 86, 237);
+}
+.home a{
+    color: white;
+    margin: 10px;
+    padding: 10px 10px;
+}
+.Boaz input{
+margin-left: 800px;
+border-radius: 30%;
+}
+.one{
+    background-color: bisque;
+    background-image: -webkit-radial-gradient url(shoes-img3.png);
+    display: flex;
+    width: 100%;
+}
+.two, .three, .four{
+    display: block;
+    width: 30%;
+    margin: 10px 10px;
+}
+.one .three img{
+    margin-top: 200px;
+    margin-left: 20px;
+}
+.five{
+    background-color: antiquewhite;
+}
+
+.five table{
+    margin-left: 350px;
+    width: 450px;
+    height: 100px;
+    background-color: blueviolet;
+}
+h2{
+    color: red;
+    justify-content: center;
+margin-left: 500px;
+}
+#footer{
+    background-color: black;
+    width: 100%;
+display: flex;
+color: white;
+padding: 20px 20px;
+}
+#blue, #yellow, #red{
+    padding: 0px 10px;
+    cursor: pointer;
+    line-height: 30px;
+}
+#yellow{
+    margin-left:500px;
+}
+#red{
+    margin-left: 350px;
+}
+h4{
+    color: red;
+}
